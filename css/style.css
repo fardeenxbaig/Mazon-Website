@@ -1161,6 +1161,7 @@ body {
   transform: translateZ(0);
   -webkit-perspective: 20em;
   perspective: 20em;
+  align-content: center;
 }
 .snip1418 * {
   -webkit-box-sizing: border-box;
